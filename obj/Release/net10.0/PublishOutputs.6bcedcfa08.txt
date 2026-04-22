@@ -1,9 +1,0 @@
-D:\ramya\AwsApiDemo\publish\AwsApiDemo.exe
-D:\ramya\AwsApiDemo\publish\appsettings.Development.json
-D:\ramya\AwsApiDemo\publish\appsettings.json
-D:\ramya\AwsApiDemo\publish\AwsApiDemo.dll
-D:\ramya\AwsApiDemo\publish\AwsApiDemo.deps.json
-D:\ramya\AwsApiDemo\publish\AwsApiDemo.runtimeconfig.json
-D:\ramya\AwsApiDemo\publish\AwsApiDemo.pdb
-D:\ramya\AwsApiDemo\publish\Microsoft.AspNetCore.OpenApi.dll
-D:\ramya\AwsApiDemo\publish\Microsoft.OpenApi.dll
